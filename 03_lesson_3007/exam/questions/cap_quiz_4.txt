@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №4
 
-What is the capital of Arizona?
-          1. Bismarck
-          2. Tallahassee
-          3. Honolulu
-          4. Phoenix
+What is the capital of Idaho?
+          1. Lincoln
+          2. Boie
+          3. Raleigh
+          4. Tallahassee

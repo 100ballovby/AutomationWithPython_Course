@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №8
 
-What is the capital of Texas?
-          1. Raleigh
-          2. Austin
-          3. Saint Paul
+What is the capital of West Virginia?
+          1. Little Rock
+          2. Honolulu
+          3. Charleston
           4. Boston

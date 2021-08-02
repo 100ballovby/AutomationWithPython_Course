@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №27
 
-What is the capital of Michigan?
-          1. Nashville
-          2. Tallahassee
-          3. Trenton
-          4. Lansing
+What is the capital of Hawaii?
+          1. Trenton
+          2. Honolulu
+          3. Olympia
+          4. Des Moines

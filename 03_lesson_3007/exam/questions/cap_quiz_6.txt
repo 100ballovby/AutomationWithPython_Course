@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №6
 
-What is the capital of South Carolina?
-          1. Indianapolis
-          2. Columbia
-          3. Richmond
-          4. Dover
+What is the capital of Maryland?
+          1. Denver
+          2. Lansing
+          3. Annapolis
+          4. Montgomery

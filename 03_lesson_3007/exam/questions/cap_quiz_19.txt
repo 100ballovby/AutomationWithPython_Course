@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №19
 
-What is the capital of Alaska?
-          1. Helena
-          2. Springfield
-          3. Juneau
-          4. Raleigh
+What is the capital of Wisconsin?
+          1. Madison
+          2. Concord
+          3. Bismarck
+          4. Carson City

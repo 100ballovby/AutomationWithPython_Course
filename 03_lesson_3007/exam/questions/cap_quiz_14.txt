@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №14
 
-What is the capital of Iowa?
-          1. Des Moines
-          2. Helena
-          3. Tallahassee
-          4. Nashville
+What is the capital of Kentucky?
+          1. Frankfort
+          2. Boston
+          3. Lansing
+          4. Springfield

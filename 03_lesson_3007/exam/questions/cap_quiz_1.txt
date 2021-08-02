@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №1
 
-What is the capital of Washington?
-          1. Montpelier
-          2. Olympia
-          3. Pierre
-          4. Indianapolis
+What is the capital of Pennsylvania?
+          1. Harrisburg
+          2. Springfield
+          3. Juneau
+          4. Richmond

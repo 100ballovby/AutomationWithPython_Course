@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №9
 
-What is the capital of Virginia?
-          1. Richmond
-          2. Columbus
-          3. Augusta
-          4. Springfield
+What is the capital of Nebraska?
+          1. Austin
+          2. Springfield
+          3. Lincoln
+          4. Little Rock

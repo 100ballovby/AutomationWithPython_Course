@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №29
 
-What is the capital of West Virginia?
-          1. Columbia
-          2. Cheyenne
-          3. Boston
-          4. Charleston
+What is the capital of Montana?
+          1. Atlanta
+          2. Des Moines
+          3. Hartford
+          4. Helena

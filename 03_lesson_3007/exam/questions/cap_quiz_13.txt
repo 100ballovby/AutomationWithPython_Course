@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №13
 
-What is the capital of Tennessee?
-          1. Charleston
-          2. Nashville
+What is the capital of North Dakota?
+          1. Raleigh
+          2. Bismarck
           3. Boston
-          4. Salem
+          4. Hartford

@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №28
 
-What is the capital of Wisconsin?
-          1. Providence
-          2. Salem
-          3. Phoenix
-          4. Madison
+What is the capital of Montana?
+          1. Hartford
+          2. Pierre
+          3. Helena
+          4. Columbia

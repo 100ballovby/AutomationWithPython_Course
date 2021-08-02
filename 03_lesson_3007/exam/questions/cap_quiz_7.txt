@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №7
 
-What is the capital of Kentucky?
-          1. Frankfort
-          2. Nashville
-          3. Salt Lake City
+What is the capital of Alaska?
+          1. Augusta
+          2. Lansing
+          3. Topeka
           4. Juneau

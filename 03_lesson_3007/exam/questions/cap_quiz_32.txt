@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №32
 
-What is the capital of Ohio?
-          1. Columbus
-          2. Boie
-          3. Albany
-          4. Carson City
+What is the capital of Arizona?
+          1. Springfield
+          2. Boston
+          3. Carson City
+          4. Phoenix

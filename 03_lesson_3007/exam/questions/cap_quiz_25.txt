@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №25
 
-What is the capital of Vermont?
-          1. Montgomery
-          2. Bismarck
+What is the capital of Louisiana?
+          1. Baton Rouge
+          2. Denver
           3. Carson City
-          4. Montpelier
+          4. Oaklahoma City

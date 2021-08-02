@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №17
 
-What is the capital of Virginia?
-          1. Columbia
-          2. Richmond
-          3. Oaklahoma City
-          4. Salem
+What is the capital of Washington?
+          1. Olympia
+          2. Salt Lake City
+          3. Des Moines
+          4. Annapolis

@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №26
 
-What is the capital of Maryland?
-          1. Richmond
-          2. Austin
-          3. Hartford
-          4. Annapolis
+What is the capital of South Carolina?
+          1. Columbia
+          2. Des Moines
+          3. Atlanta
+          4. Lansing

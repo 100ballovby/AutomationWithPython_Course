@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №3
 
-What is the capital of Missouri?
-          1. Montpelier
-          2. Olympia
-          3. Jefferson City
-          4. Cheyenne
+What is the capital of Washington?
+          1. Austin
+          2. Richmond
+          3. Olympia
+          4. Lincoln

@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №35
 
-What is the capital of Wisconsin?
-          1. Austin
-          2. Madison
-          3. Augusta
-          4. Bismarck
+What is the capital of New Jersey?
+          1. Nashville
+          2. Trenton
+          3. Harrisburg
+          4. Saint Paul

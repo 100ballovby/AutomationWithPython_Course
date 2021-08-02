@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №10
 
-What is the capital of New Jersey?
-          1. Trenton
-          2. Tallahassee
-          3. Hartford
-          4. Helena
+What is the capital of North Carolina?
+          1. Montpelier
+          2. Salem
+          3. Boie
+          4. Raleigh

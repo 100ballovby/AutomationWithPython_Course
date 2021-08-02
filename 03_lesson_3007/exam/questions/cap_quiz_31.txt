@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №31
 
-What is the capital of Florida?
-          1. Columbia
-          2. Trenton
-          3. Austin
-          4. Tallahassee
+What is the capital of Tennessee?
+          1. Nashville
+          2. Jefferson City
+          3. Albany
+          4. Indianapolis

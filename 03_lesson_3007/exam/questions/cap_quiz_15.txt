@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №15
 
-What is the capital of Iowa?
-          1. Des Moines
-          2. Honolulu
-          3. Atlanta
-          4. Salt Lake City
+What is the capital of Florida?
+          1. Concord
+          2. Richmond
+          3. Columbus
+          4. Tallahassee

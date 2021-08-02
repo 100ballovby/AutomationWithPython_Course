@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №30
 
-What is the capital of Wisconsin?
-          1. Boston
-          2. Jefferson City
-          3. Madison
-          4. Annapolis
+What is the capital of Tennessee?
+          1. Harrisburg
+          2. Nashville
+          3. Little Rock
+          4. Tallahassee

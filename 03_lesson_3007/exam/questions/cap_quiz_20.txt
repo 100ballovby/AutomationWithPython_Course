@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №20
 
-What is the capital of California?
-          1. Boie
-          2. Lansing
-          3. Sacramento
-          4. Salt Lake City
+What is the capital of Oaklahoma?
+          1. Oaklahoma City
+          2. Raleigh
+          3. Augusta
+          4. Harrisburg

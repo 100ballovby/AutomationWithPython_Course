@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №22
 
-What is the capital of Montana?
-          1. Helena
-          2. Lansing
-          3. Raleigh
-          4. Dover
+What is the capital of West Virginia?
+          1. Juneau
+          2. Charleston
+          3. Madison
+          4. Richmond

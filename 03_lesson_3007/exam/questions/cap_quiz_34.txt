@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №34
 
-What is the capital of Texas?
-          1. Cheyenne
-          2. Austin
-          3. Boie
-          4. Charleston
+What is the capital of Delaware?
+          1. Des Moines
+          2. Dover
+          3. Honolulu
+          4. Tallahassee

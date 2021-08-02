@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №5
 
-What is the capital of Tennessee?
-          1. Helena
-          2. Carson City
-          3. Topeka
-          4. Nashville
+What is the capital of Massachusetts?
+          1. Hartford
+          2. Boston
+          3. Lansing
+          4. Lincoln

@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №2
 
-What is the capital of California?
-          1. Helena
-          2. Sacramento
-          3. Lansing
-          4. Montgomery
+What is the capital of New Mexico?
+          1. Boie
+          2. Santa Fe
+          3. Providence
+          4. Baton Rouge

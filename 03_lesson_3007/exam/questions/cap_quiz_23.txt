@@ -6,8 +6,8 @@ Form
 
                     State + capitals quiz. Question №23
 
-What is the capital of Kentucky?
-          1. Frankfort
-          2. Trenton
-          3. Columbus
-          4. Concord
+What is the capital of Ohio?
+          1. Columbus
+          2. Boston
+          3. Dover
+          4. Helena
