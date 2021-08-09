@@ -10,16 +10,25 @@
 import openpyxl as xl
 
 wb = xl.load_workbook('censuspopdata.xlsx')
-sheet = wb['Population by Census tract']
+sheet = wb['Population by Census Tract']
 countryData = {}
-
-# TODO: заполнить словарь данными о
-#  численности населения и районах переписи
 
 for row in range(2, sheet.max_row + 1):
     state = sheet['B' + str(row)].value
     county = sheet['C' + str(row)].value
     pop = sheet['D' + str(row)].value
+
+    # Гарантированный ключ для штата
+    countryData.setdefault(state, {})
+    # Гарантированный ключ для округа
+    countryData[state].setdefault(county, {'tracts': 0, 'pop': 0})
+    # Каждая строка - это отдельный округ. Поэтому я буду увеличивать их на 1
+    countryData[state][county]['tracts'] += 1
+    countryData[state][county]['pop'] += int(pop)
+
+print(countryData)
+
+
 
 
 # TODO: создать текстовый файл и наполнить его
