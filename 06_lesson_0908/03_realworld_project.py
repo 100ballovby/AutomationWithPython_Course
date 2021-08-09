@@ -8,6 +8,7 @@
 
 """
 import openpyxl as xl
+import pprint  # perfect print
 
 wb = xl.load_workbook('censuspopdata.xlsx')
 sheet = wb['Population by Census Tract']
@@ -26,10 +27,10 @@ for row in range(2, sheet.max_row + 1):
     countryData[state][county]['tracts'] += 1
     countryData[state][county]['pop'] += int(pop)
 
-print(countryData)
-
-
-
-
 # TODO: создать текстовый файл и наполнить его
 #  содержимым словаря countryData
+
+resFile = open('USAcensus.py', 'w')
+resFile.write('pop_data = ' + pprint.pformat(countryData))
+resFile.close()
+print('Done!')
