@@ -27,6 +27,7 @@ sheet = wb['Sheet']
 sheet['A1'] = 'Название Пиццы'
 sheet['B1'] = 'Стоимость пиццы'
 
+# TODO: доделать нормально цикл записи пицц в таблицу
 for key, value in pizzas.items():
     doc.add_paragraph(f'🍕{key}: 💰{value}💰;')
     for row in range(1, len(pizzas) + 1):
