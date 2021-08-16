@@ -1,0 +1,10 @@
+{
+    "president": {
+        "name": "Zakhar",
+        "age": 57
+    },
+    "vice president": {
+        "name": "Oleg",
+        "age": 46
+    }
+}
